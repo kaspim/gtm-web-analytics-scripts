@@ -3,7 +3,7 @@
  * It must be called after window onload event
  *
  * Author: Martin Kaspar - www.martinkaspar.net
- * GitHub: GTM Analytics Scripts - github.com/kaspim/gtm-web-analytics-scripts
+ * GitHub: GTM Web Analytics JavaStripts - github.com/kaspim/gtm-web-analytics-scripts
  */
 
 function() {
