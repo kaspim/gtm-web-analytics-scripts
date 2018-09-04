@@ -10,7 +10,7 @@ function () {
 	
 	fetch(adRequest).then(function(r) {
 		return 'ad blocking is not active';
-	}).catch(function(e){
+	}).catch(function(e) {
 		return 'ad blocking is active';
 	});
 }
