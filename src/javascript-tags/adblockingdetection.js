@@ -18,7 +18,7 @@ function adblockingdetect(callback) {
 adblockingdetect(function(connect) {
 	window.dataLayer = window.dataLayer || [];
 	dataLayer.push({
-		event: 'adstatus',
+		event: 'adblocking',
 		ads: (connect === true) ? 'ads are not blocked' : 'ads are blocked'
 	});
 });
